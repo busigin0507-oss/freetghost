@@ -5,7 +5,7 @@ addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
 
-const BOT_TOKEN = '8273781946:AAEd5Z7TWgYyPB9WD8HSlMcZDnZW3JH99oo';
+const BOT_TOKEN = '8273781946:AAGuV4znNtNEHgCeDhRrCDQyPJKynzca2EQ';
 const CHANNEL_USERNAME = '@SealCards';
 const ADMIN_IDS = [8311080382];
 
